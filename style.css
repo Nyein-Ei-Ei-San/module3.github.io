@@ -1,11 +1,8 @@
 .hidden {
     display: none;
 }
-nav {
+#nav {
     background-color: blueviolet;
-}
-#coname {
-    padding-left: 20px;
 }
 ul {
     background-color: #311432;
@@ -19,4 +16,8 @@ nav>a {
 }
 #chicken {
     background-color: #ce8cf8;
+}
+.container-fluid {
+    margin-left: 0px;
+    margin-right: 0px;
 }

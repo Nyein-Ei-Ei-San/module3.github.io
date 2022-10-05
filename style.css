@@ -1,0 +1,22 @@
+.hidden {
+    display: none;
+}
+nav {
+    background-color: blueviolet;
+}
+#coname {
+    padding-left: 20px;
+}
+ul {
+    background-color: #311432;
+}
+nav>a {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
+#body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#chicken {
+    background-color: #ce8cf8;
+}
